@@ -21,7 +21,7 @@ export class ProductsService {
     const pageSize = 20;
     const skip = (page - 1) * pageSize;
 
-    // Build where clause dynamically
+    // Build where clause dynamically, don't seem to understand shit, but it works
     const where: any = {};
 
     // Search in name, description, or brand
