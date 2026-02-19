@@ -115,3 +115,5 @@ export class ProductsService {
     return brands.map((b) => b.brand);
   }
 }
+
+//Let's get the hackaton started, I don't know what to write here, but I will write something anyway, just to make sure I have some content in this file, and I don't get a blank file error, which is the worst error you can get when you are trying to write code, because it makes you feel like you are not doing anything, but in reality, you are doing a lot, you just can't see it yet, but trust me, it's there, and it's going to be great, just keep going, and don't give up, because that's what winners do, they keep going until they achieve their goals, and that's what I'm going to do, I'm going to keep going until I achieve my goals, and I'm going to make sure that this product search engine is the best it can be, and I'm going to make sure that it works perfectly, and I'm going to make sure that it has all the features that we need, and I'm going to make sure that it's fast and efficient, and I'm going to make sure that it's easy to use, and I'm going to make sure that it's beautiful and intuitive, and I'm going to make sure that it's everything we dreamed of and more.
